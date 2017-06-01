@@ -12,9 +12,20 @@
 		D8D3A5291EDE26C600C7E1E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8D3A5271EDE26C600C7E1E9 /* Main.storyboard */; };
 		D8D3A52B1EDE26C600C7E1E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8D3A52A1EDE26C600C7E1E9 /* Assets.xcassets */; };
 		D8D3A52E1EDE26C600C7E1E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8D3A52C1EDE26C600C7E1E9 /* LaunchScreen.storyboard */; };
+		D8D3A5381EDE276000C7E1E9 /* AmazingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D3A5371EDE276000C7E1E9 /* AmazingView.swift */; };
+		D8D3A53B1EDE27F800C7E1E9 /* LoveView.m in Sources */ = {isa = PBXBuildFile; fileRef = D8D3A53A1EDE27F800C7E1E9 /* LoveView.m */; };
+		D8D3A53D1EDE28E600C7E1E9 /* LoveButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D3A53C1EDE28E600C7E1E9 /* LoveButtonView.swift */; };
+		D8D3A53F1EDE2CB200C7E1E9 /* HudView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D3A53E1EDE2CB200C7E1E9 /* HudView.swift */; };
+		D8D3A5411EDE2DF700C7E1E9 /* ProgressIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D3A5401EDE2DF700C7E1E9 /* ProgressIndicatorView.swift */; };
+		D8D3A5431EDE2E5100C7E1E9 /* TouchExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D3A5421EDE2E5100C7E1E9 /* TouchExampleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D8394D2E1EDF051F003E46C5 /* 3DTouch.kite */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = 3DTouch.kite; path = "Kite Documents/3DTouch.kite"; sourceTree = SOURCE_ROOT; };
+		D8394D2F1EDF051F003E46C5 /* Emoji.kite */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Emoji.kite; path = "Kite Documents/Emoji.kite"; sourceTree = SOURCE_ROOT; };
+		D8394D301EDF051F003E46C5 /* Heart.kite */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Heart.kite; path = "Kite Documents/Heart.kite"; sourceTree = SOURCE_ROOT; };
+		D8394D311EDF051F003E46C5 /* LoadingSpinner.kite */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = LoadingSpinner.kite; path = "Kite Documents/LoadingSpinner.kite"; sourceTree = SOURCE_ROOT; };
+		D8394D321EDF051F003E46C5 /* LoveEmoji.kite */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = LoveEmoji.kite; path = "Kite Documents/LoveEmoji.kite"; sourceTree = SOURCE_ROOT; };
 		D8D3A5201EDE26C600C7E1E9 /* CodeGeneration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodeGeneration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8D3A5231EDE26C600C7E1E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D8D3A5251EDE26C600C7E1E9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +33,13 @@
 		D8D3A52A1EDE26C600C7E1E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8D3A52D1EDE26C600C7E1E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8D3A52F1EDE26C600C7E1E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8D3A5371EDE276000C7E1E9 /* AmazingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AmazingView.swift; sourceTree = SOURCE_ROOT; };
+		D8D3A5391EDE27F800C7E1E9 /* LoveView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoveView.h; sourceTree = SOURCE_ROOT; };
+		D8D3A53A1EDE27F800C7E1E9 /* LoveView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoveView.m; sourceTree = SOURCE_ROOT; };
+		D8D3A53C1EDE28E600C7E1E9 /* LoveButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoveButtonView.swift; sourceTree = SOURCE_ROOT; };
+		D8D3A53E1EDE2CB200C7E1E9 /* HudView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HudView.swift; sourceTree = SOURCE_ROOT; };
+		D8D3A5401EDE2DF700C7E1E9 /* ProgressIndicatorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressIndicatorView.swift; sourceTree = SOURCE_ROOT; };
+		D8D3A5421EDE2E5100C7E1E9 /* TouchExampleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TouchExampleView.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +53,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D8394D2D1EDF03D1003E46C5 /* Kite Documents */ = {
+			isa = PBXGroup;
+			children = (
+				D8394D2E1EDF051F003E46C5 /* 3DTouch.kite */,
+				D8394D2F1EDF051F003E46C5 /* Emoji.kite */,
+				D8394D301EDF051F003E46C5 /* Heart.kite */,
+				D8394D311EDF051F003E46C5 /* LoadingSpinner.kite */,
+				D8394D321EDF051F003E46C5 /* LoveEmoji.kite */,
+			);
+			name = "Kite Documents";
+			sourceTree = "<group>";
+		};
 		D8D3A5171EDE26C600C7E1E9 = {
 			isa = PBXGroup;
 			children = (
@@ -54,6 +84,16 @@
 		D8D3A5221EDE26C600C7E1E9 /* CodeGeneration */ = {
 			isa = PBXGroup;
 			children = (
+				D8394D2D1EDF03D1003E46C5 /* Kite Documents */,
+				D8D3A5361EDE270000C7E1E9 /* Generated Code */,
+				D8D3A5351EDE26F600C7E1E9 /* App */,
+			);
+			path = CodeGeneration;
+			sourceTree = "<group>";
+		};
+		D8D3A5351EDE26F600C7E1E9 /* App */ = {
+			isa = PBXGroup;
+			children = (
 				D8D3A5231EDE26C600C7E1E9 /* AppDelegate.swift */,
 				D8D3A5251EDE26C600C7E1E9 /* ViewController.swift */,
 				D8D3A5271EDE26C600C7E1E9 /* Main.storyboard */,
@@ -61,7 +101,21 @@
 				D8D3A52C1EDE26C600C7E1E9 /* LaunchScreen.storyboard */,
 				D8D3A52F1EDE26C600C7E1E9 /* Info.plist */,
 			);
-			path = CodeGeneration;
+			name = App;
+			sourceTree = "<group>";
+		};
+		D8D3A5361EDE270000C7E1E9 /* Generated Code */ = {
+			isa = PBXGroup;
+			children = (
+				D8D3A5421EDE2E5100C7E1E9 /* TouchExampleView.swift */,
+				D8D3A5401EDE2DF700C7E1E9 /* ProgressIndicatorView.swift */,
+				D8D3A53E1EDE2CB200C7E1E9 /* HudView.swift */,
+				D8D3A53C1EDE28E600C7E1E9 /* LoveButtonView.swift */,
+				D8D3A5391EDE27F800C7E1E9 /* LoveView.h */,
+				D8D3A53A1EDE27F800C7E1E9 /* LoveView.m */,
+				D8D3A5371EDE276000C7E1E9 /* AmazingView.swift */,
+			);
+			name = "Generated Code";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,6 +149,7 @@
 				TargetAttributes = {
 					D8D3A51F1EDE26C600C7E1E9 = {
 						CreatedOnToolsVersion = 8.3.2;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -136,7 +191,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8D3A5261EDE26C600C7E1E9 /* ViewController.swift in Sources */,
+				D8D3A5381EDE276000C7E1E9 /* AmazingView.swift in Sources */,
+				D8D3A53F1EDE2CB200C7E1E9 /* HudView.swift in Sources */,
+				D8D3A5431EDE2E5100C7E1E9 /* TouchExampleView.swift in Sources */,
+				D8D3A53B1EDE27F800C7E1E9 /* LoveView.m in Sources */,
+				D8D3A5411EDE2DF700C7E1E9 /* ProgressIndicatorView.swift in Sources */,
 				D8D3A5241EDE26C600C7E1E9 /* AppDelegate.swift in Sources */,
+				D8D3A53D1EDE28E600C7E1E9 /* LoveButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,10 +322,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = CodeGeneration/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.kiteapp.CodeGeneration;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -273,6 +337,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = CodeGeneration/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.kiteapp.CodeGeneration;
@@ -300,6 +366,7 @@
 				D8D3A5341EDE26C600C7E1E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

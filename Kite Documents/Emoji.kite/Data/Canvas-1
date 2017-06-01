@@ -1,0 +1,979 @@
+{
+  "bounds" : "{{0, 0}, {112, 112}}",
+  "position" : "{0, 0}",
+  "className" : "JRShapeContainerLayer",
+  "sublayers" : [
+    {
+      "uuid" : "1D228C0F-13AC-4D94-9CC4-68197F15899E",
+      "borderColor" : {
+        "components" : {
+          "r" : 0,
+          "b" : 0,
+          "g" : 0,
+          "a" : 1
+        },
+        "colorSpace" : "kCGColorSpaceSRGB"
+      },
+      "name" : "Amazing",
+      "position" : "{0, 0}",
+      "backgroundColor" : {
+        "components" : {
+          "r" : 0.9783509036144579,
+          "b" : 0.3736468883489359,
+          "g" : 0.8451550734868969,
+          "a" : 1
+        },
+        "colorSpace" : "kCGColorSpaceSRGB"
+      },
+      "className" : "CALayer",
+      "shadowColor" : {
+        "components" : {
+          "r" : 0,
+          "b" : 0,
+          "g" : 0,
+          "a" : 1
+        },
+        "colorSpace" : "kCGColorSpaceSRGB"
+      },
+      "sublayers" : [
+        {
+          "name" : "Face",
+          "borderColor" : {
+            "components" : {
+              "r" : 0,
+              "b" : 0,
+              "g" : 0,
+              "a" : 0
+            },
+            "colorSpace" : "kCGColorSpaceSRGB"
+          },
+          "uuid" : "622E475A-B797-498D-9CAB-FCE182F708F5",
+          "animationsContainer" : {
+            "animations" : [
+              {
+                "values" : [
+                  {
+                    "type" : "CATransform3D",
+                    "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                  },
+                  {
+                    "type" : "CATransform3D",
+                    "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 6.600000, 0.000000, 1.000000"
+                  },
+                  {
+                    "type" : "CATransform3D",
+                    "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                  }
+                ],
+                "timingFunctions" : [
+                  {
+                    "c2x" : 0.58,
+                    "localizedName" : "Ease-In Ease-Out",
+                    "c2y" : 1,
+                    "className" : "CAMediaTimingFunction",
+                    "c1x" : 0.42,
+                    "c1y" : 0
+                  },
+                  {
+                    "c2x" : 0.58,
+                    "localizedName" : "Ease-In Ease-Out",
+                    "c2y" : 1,
+                    "className" : "CAMediaTimingFunction",
+                    "c1x" : 0.42,
+                    "c1y" : 0
+                  }
+                ],
+                "beginTime" : 0.7487327127659577,
+                "className" : "CAKeyframeAnimation",
+                "keyPath" : "sublayerTransform",
+                "fillMode" : "forwards",
+                "uuid" : "ECFA9C33-FF43-4946-96A3-2418D5F57205",
+                "duration" : 2.25433203125,
+                "playsAtBeginTime" : false,
+                "removedOnCompletion" : false
+              }
+            ]
+          },
+          "position" : "{6, 6}",
+          "backgroundColor" : {
+            "components" : {
+              "r" : 1,
+              "b" : 0.3819150030612946,
+              "g" : 0.8638567924499512,
+              "a" : 1
+            },
+            "colorSpace" : "kCGColorSpaceSRGB"
+          },
+          "className" : "CALayer",
+          "shadowOffset" : "{0, 1}",
+          "shadowColor" : {
+            "components" : {
+              "r" : 0,
+              "b" : 0,
+              "g" : 0,
+              "a" : 1
+            },
+            "colorSpace" : "kCGColorSpaceSRGB"
+          },
+          "sublayers" : [
+            {
+              "uuid" : "D8AF7DA3-5D70-4DF8-8181-D99E5D8337B0",
+              "borderColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "name" : "Mouth",
+              "animationsContainer" : {
+                "animations" : [
+                  {
+                    "values" : [
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.600000, 0.000000, 0.000000, 0.000000, 0.000000, 0.500000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -18.799999, -15.100000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.600000, 0.000000, 0.000000, 0.000000, 0.000000, 0.500000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -18.799999, -15.100000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.800000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 19.200001, -6.800000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.800000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 19.200001, -6.800000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      }
+                    ],
+                    "timingFunctions" : [
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      }
+                    ],
+                    "beginTime" : 0.7456679687500002,
+                    "className" : "CAKeyframeAnimation",
+                    "keyPath" : "transform",
+                    "fillMode" : "forwards",
+                    "uuid" : "330FBEA3-A391-4A16-92C5-334B40E0FDBA",
+                    "duration" : 2.25433203125,
+                    "playsAtBeginTime" : false,
+                    "removedOnCompletion" : false
+                  }
+                ]
+              },
+              "position" : "{50, 73}",
+              "lineWidth" : 0,
+              "className" : "CAShapeLayer",
+              "strokeColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 0
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "path" : "M16.000,46.000 C24.837,46.000 32.000,35.703 32.000,23.000 C32.000,10.297 24.837,0.000 16.000,0.000 C7.163,0.000 0.000,10.297 0.000,23.000 C0.000,35.703 7.163,46.000 16.000,46.000 Z M16.000,46.000",
+              "fillRule" : "even-odd",
+              "shadowColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "fillColor" : {
+                "components" : {
+                  "r" : 0.1137254901960784,
+                  "b" : 0.196078431372549,
+                  "g" : 0.1647058823529412,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "duration" : 3600,
+              "bounds" : "{{0, 0}, {32, 46}}",
+              "contentsGravity" : "center"
+            },
+            {
+              "uuid" : "0FE10E08-E3F0-457E-80D2-D5F5F128B1E9",
+              "borderColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "name" : "Right Eye",
+              "animationsContainer" : {
+                "animations" : [
+                  {
+                    "values" : [
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.945519, 0.325568, 0.000000, 0.000000, -0.325568, 0.945519, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -12.400000, -10.500000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.945519, 0.325568, 0.000000, 0.000000, -0.325568, 0.945519, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -12.400000, -10.500000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.188322, -0.167008, 0.000000, 0.000000, 0.167008, 1.188322, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 9.500000, -8.000000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.188322, -0.167008, 0.000000, 0.000000, 0.167008, 1.188322, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 9.500000, -8.000000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      }
+                    ],
+                    "timingFunctions" : [
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      }
+                    ],
+                    "beginTime" : 0.7456679687500002,
+                    "className" : "CAKeyframeAnimation",
+                    "keyPath" : "transform",
+                    "fillMode" : "forwards",
+                    "uuid" : "65CF65E1-883C-4BFE-A29F-4B58D28E482B",
+                    "duration" : 2.25433203125,
+                    "playsAtBeginTime" : false,
+                    "removedOnCompletion" : false
+                  },
+                  {
+                    "uuid" : "8AB26268-C952-44CE-A090-9B78880F3A27",
+                    "repeatCount" : 2,
+                    "removedOnCompletion" : false,
+                    "className" : "CABasicAnimation",
+                    "timingFunction" : {
+                      "c2x" : 0.58,
+                      "localizedName" : "Ease-In Ease-Out",
+                      "c2y" : 1,
+                      "className" : "CAMediaTimingFunction",
+                      "c1x" : 0.42,
+                      "c1y" : 0
+                    },
+                    "playsAtBeginTime" : false,
+                    "autoreverses" : true,
+                    "keyPath" : "transform.scale.y",
+                    "fillMode" : "forwards",
+                    "toValue" : {
+                      "type" : "Double",
+                      "value" : 0
+                    },
+                    "duration" : 0.100364613495278,
+                    "beginTime" : 1e-06,
+                    "name" : "Blink transform.scale.y"
+                  },
+                  {
+                    "uuid" : "26676EDD-1163-4CDD-A5F2-68FFA46585B5",
+                    "repeatCount" : 1,
+                    "removedOnCompletion" : false,
+                    "className" : "CABasicAnimation",
+                    "timingFunction" : {
+                      "c2x" : 0.58,
+                      "localizedName" : "Ease-In Ease-Out",
+                      "c2y" : 1,
+                      "className" : "CAMediaTimingFunction",
+                      "c1x" : 0.42,
+                      "c1y" : 0
+                    },
+                    "playsAtBeginTime" : false,
+                    "autoreverses" : true,
+                    "keyPath" : "transform.scale.y",
+                    "fillMode" : "forwards",
+                    "toValue" : {
+                      "type" : "Double",
+                      "value" : 0
+                    },
+                    "duration" : 0.100364613495278,
+                    "beginTime" : 1.59593268218085,
+                    "name" : "Blink transform.scale.y"
+                  },
+                  {
+                    "uuid" : "E33D9D6F-2178-4371-AD03-70A4E439F6F5",
+                    "repeatCount" : 1,
+                    "removedOnCompletion" : false,
+                    "className" : "CABasicAnimation",
+                    "timingFunction" : {
+                      "c2x" : 0.58,
+                      "localizedName" : "Ease-In Ease-Out",
+                      "c2y" : 1,
+                      "className" : "CAMediaTimingFunction",
+                      "c1x" : 0.42,
+                      "c1y" : 0
+                    },
+                    "playsAtBeginTime" : false,
+                    "autoreverses" : true,
+                    "keyPath" : "transform.scale.y",
+                    "fillMode" : "forwards",
+                    "toValue" : {
+                      "type" : "Double",
+                      "value" : 0
+                    },
+                    "duration" : 0.100364613495278,
+                    "beginTime" : 2.189,
+                    "name" : "Blink transform.scale.y"
+                  }
+                ]
+              },
+              "position" : "{76, 38}",
+              "lineWidth" : 0,
+              "className" : "CAShapeLayer",
+              "strokeColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 0
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "path" : "M8.000,24.000 C12.418,24.000 16.000,18.627 16.000,12.000 C16.000,5.373 12.418,0.000 8.000,0.000 C3.582,0.000 0.000,5.373 0.000,12.000 C0.000,18.627 3.582,24.000 8.000,24.000 Z M8.000,24.000",
+              "fillRule" : "even-odd",
+              "shadowColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "fillColor" : {
+                "components" : {
+                  "r" : 0.1529411764705882,
+                  "b" : 0.196078431372549,
+                  "g" : 0.1333333333333333,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "duration" : 3600,
+              "bounds" : "{{0, 0}, {16, 24}}",
+              "contentsGravity" : "center"
+            },
+            {
+              "uuid" : "FF5E50AD-7180-4D4C-AC99-923C05A307C3",
+              "borderColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "name" : "Left Eye",
+              "animationsContainer" : {
+                "animations" : [
+                  {
+                    "values" : [
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.153514, 0.330765, 0.000000, 0.000000, -0.330765, 1.153514, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -8.500000, -12.000000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.153514, 0.330765, 0.000000, 0.000000, -0.330765, 1.153514, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -8.500000, -12.000000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 12.800000, -6.600000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 12.800000, -6.600000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      }
+                    ],
+                    "timingFunctions" : [
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      }
+                    ],
+                    "beginTime" : 0.7456679687500002,
+                    "className" : "CAKeyframeAnimation",
+                    "keyPath" : "transform",
+                    "fillMode" : "forwards",
+                    "uuid" : "55B78ACF-F826-4232-B317-7E49617F1D76",
+                    "duration" : 2.25433203125,
+                    "playsAtBeginTime" : false,
+                    "removedOnCompletion" : false
+                  },
+                  {
+                    "uuid" : "5D5146A0-BA77-49CD-B891-526FBC1BD7F0",
+                    "repeatCount" : 2,
+                    "removedOnCompletion" : false,
+                    "className" : "CABasicAnimation",
+                    "timingFunction" : {
+                      "c2x" : 0.58,
+                      "localizedName" : "Ease-In Ease-Out",
+                      "c2y" : 1,
+                      "className" : "CAMediaTimingFunction",
+                      "c1x" : 0.42,
+                      "c1y" : 0
+                    },
+                    "playsAtBeginTime" : false,
+                    "autoreverses" : true,
+                    "keyPath" : "transform.scale.y",
+                    "fillMode" : "forwards",
+                    "toValue" : {
+                      "type" : "Double",
+                      "value" : 0
+                    },
+                    "duration" : 0.100364613495278,
+                    "beginTime" : 1e-06,
+                    "name" : "Blink transform.scale.y"
+                  },
+                  {
+                    "uuid" : "1812F6B7-7EDE-4FD7-BC5D-1DFD486015A6",
+                    "repeatCount" : 1,
+                    "removedOnCompletion" : false,
+                    "className" : "CABasicAnimation",
+                    "timingFunction" : {
+                      "c2x" : 0.58,
+                      "localizedName" : "Ease-In Ease-Out",
+                      "c2y" : 1,
+                      "className" : "CAMediaTimingFunction",
+                      "c1x" : 0.42,
+                      "c1y" : 0
+                    },
+                    "playsAtBeginTime" : false,
+                    "autoreverses" : true,
+                    "keyPath" : "transform.scale.y",
+                    "toValue" : {
+                      "type" : "Double",
+                      "value" : 0
+                    },
+                    "duration" : 0.100364613495278,
+                    "beginTime" : 1.59593268218085,
+                    "name" : "Blink transform.scale.y"
+                  },
+                  {
+                    "uuid" : "F4AFB3BD-2940-40BE-BA51-C21730F963A4",
+                    "repeatCount" : 1,
+                    "removedOnCompletion" : false,
+                    "className" : "CABasicAnimation",
+                    "timingFunction" : {
+                      "c2x" : 0.58,
+                      "localizedName" : "Ease-In Ease-Out",
+                      "c2y" : 1,
+                      "className" : "CAMediaTimingFunction",
+                      "c1x" : 0.42,
+                      "c1y" : 0
+                    },
+                    "playsAtBeginTime" : false,
+                    "autoreverses" : true,
+                    "keyPath" : "transform.scale.y",
+                    "toValue" : {
+                      "type" : "Double",
+                      "value" : 0
+                    },
+                    "duration" : 0.100364613495278,
+                    "beginTime" : 2.189,
+                    "name" : "Blink transform.scale.y"
+                  }
+                ]
+              },
+              "position" : "{24.597198666007898, 38}",
+              "lineWidth" : 0,
+              "className" : "CAShapeLayer",
+              "strokeColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 0
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "path" : "M8.000,24.000 C12.418,24.000 16.000,18.627 16.000,12.000 C16.000,5.373 12.418,0.000 8.000,0.000 C3.582,0.000 0.000,5.373 0.000,12.000 C0.000,18.627 3.582,24.000 8.000,24.000 Z M8.000,24.000",
+              "fillRule" : "even-odd",
+              "shadowColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "fillColor" : {
+                "components" : {
+                  "r" : 0.1529411764705882,
+                  "b" : 0.196078431372549,
+                  "g" : 0.1333333333333333,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "duration" : 3600,
+              "bounds" : "{{0, 0}, {16, 24}}",
+              "contentsGravity" : "center"
+            },
+            {
+              "uuid" : "77E9953E-414B-42DD-91AA-A30A56A8F898",
+              "borderColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "name" : "Right Eyebrow",
+              "animationsContainer" : {
+                "animations" : [
+                  {
+                    "values" : [
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.913545, 0.406737, 0.000000, 0.000000, -0.406737, 0.913545, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -6.800000, -3.900000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.913545, 0.406737, 0.000000, 0.000000, -0.406737, 0.913545, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -6.800000, -3.900000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.891007, 0.453990, 0.000000, 0.000000, -0.453990, 0.891007, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 13.200000, -7.200000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.891007, 0.453990, 0.000000, 0.000000, -0.453990, 0.891007, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 13.200000, -7.200000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      }
+                    ],
+                    "timingFunctions" : [
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      }
+                    ],
+                    "beginTime" : 0.7456679687500002,
+                    "className" : "CAKeyframeAnimation",
+                    "keyPath" : "transform",
+                    "fillMode" : "forwards",
+                    "uuid" : "31CA5055-3426-41ED-8F30-723DC10A549A",
+                    "duration" : 2.25433203125,
+                    "playsAtBeginTime" : false,
+                    "removedOnCompletion" : false
+                  }
+                ]
+              },
+              "position" : "{64, 8}",
+              "lineWidth" : 5,
+              "className" : "CAShapeLayer",
+              "strokeColor" : {
+                "components" : {
+                  "r" : 0.1254901960784314,
+                  "b" : 0,
+                  "g" : 0.03529411764705882,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "path" : "M18.500,4.500 C16.517,3.357 14.755,2.500 12.500,2.500 C8.300,2.500 4.810,4.057 2.500,6.500",
+              "lineCap" : "round",
+              "fillRule" : "even-odd",
+              "shadowColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "lineJoin" : "round",
+              "anchorPoint" : "{0, 0}",
+              "duration" : 3600,
+              "fillColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 0
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "bounds" : "{{0, 0}, {21, 10}}",
+              "contentsGravity" : "center"
+            },
+            {
+              "uuid" : "AD0EB2FD-6427-47FF-9135-720F0D72629E",
+              "borderColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "name" : "Left Eyebrow",
+              "animationsContainer" : {
+                "animations" : [
+                  {
+                    "values" : [
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.961262, -0.275637, 0.000000, 0.000000, 0.275637, 0.961262, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -12.500000, -6.700000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "0.961262, -0.275637, 0.000000, 0.000000, 0.275637, 0.961262, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -12.500000, -6.700000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 9.800000, 2.400000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 9.800000, 2.400000, 0.000000, 1.000000"
+                      },
+                      {
+                        "type" : "CATransform3D",
+                        "value" : "1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000"
+                      }
+                    ],
+                    "timingFunctions" : [
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      },
+                      {
+                        "c2x" : 0.58,
+                        "localizedName" : "Ease-In Ease-Out",
+                        "c2y" : 1,
+                        "className" : "CAMediaTimingFunction",
+                        "c1x" : 0.42,
+                        "c1y" : 0
+                      }
+                    ],
+                    "beginTime" : 0.7487327127659577,
+                    "className" : "CAKeyframeAnimation",
+                    "keyPath" : "transform",
+                    "fillMode" : "forwards",
+                    "uuid" : "C224974F-496C-4844-A6E0-D8AA524201C0",
+                    "duration" : 2.25433203125,
+                    "playsAtBeginTime" : false,
+                    "removedOnCompletion" : false
+                  }
+                ]
+              },
+              "position" : "{16, 8}",
+              "lineWidth" : 5,
+              "className" : "CAShapeLayer",
+              "strokeColor" : {
+                "components" : {
+                  "r" : 0.1254901960784314,
+                  "b" : 0,
+                  "g" : 0.03529411764705882,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "path" : "M18.500,4.500 C16.516,3.357 14.755,2.500 12.500,2.500 C8.299,2.500 4.810,4.057 2.500,6.500",
+              "lineCap" : "round",
+              "fillRule" : "even-odd",
+              "shadowColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 1
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "lineJoin" : "round",
+              "anchorPoint" : "{0, 0}",
+              "duration" : 3600,
+              "fillColor" : {
+                "components" : {
+                  "r" : 0,
+                  "b" : 0,
+                  "g" : 0,
+                  "a" : 0
+                },
+                "colorSpace" : "kCGColorSpaceSRGB"
+              },
+              "bounds" : "{{0, 0}, {21, 10}}",
+              "contentsGravity" : "center"
+            }
+          ],
+          "fillMode" : "forwards",
+          "anchorPoint" : "{0, 0}",
+          "duration" : 3600,
+          "cornerRadius" : 50,
+          "bounds" : "{{0, 0}, {100, 100}}",
+          "contentsGravity" : "center"
+        }
+      ],
+      "actionsContainer" : {
+        "actions" : [
+          {
+            "uuid" : "4BF45D74-43DB-4F26-8E7A-2FADAAC4D7DC",
+            "className" : "JRAction",
+            "actionResponses" : [
+              {
+                "className" : "JRPlayAnimationsActionResponse",
+                "delayByBeginTime" : true,
+                "type" : "JRActionResponseTypePlayAnimations",
+                "animationIdentifiers" : [
+                  "ECFA9C33-FF43-4946-96A3-2418D5F57205",
+                  "C224974F-496C-4844-A6E0-D8AA524201C0",
+                  "31CA5055-3426-41ED-8F30-723DC10A549A",
+                  "55B78ACF-F826-4232-B317-7E49617F1D76",
+                  "5D5146A0-BA77-49CD-B891-526FBC1BD7F0",
+                  "1812F6B7-7EDE-4FD7-BC5D-1DFD486015A6",
+                  "F4AFB3BD-2940-40BE-BA51-C21730F963A4",
+                  "65CF65E1-883C-4BFE-A29F-4B58D28E482B",
+                  "8AB26268-C952-44CE-A090-9B78880F3A27",
+                  "26676EDD-1163-4CDD-A5F2-68FFA46585B5",
+                  "E33D9D6F-2178-4371-AD03-70A4E439F6F5",
+                  "330FBEA3-A391-4A16-92C5-334B40E0FDBA"
+                ],
+                "uuid" : "93159A12-E5D2-4610-A4A0-D60E7DBC244F"
+              }
+            ],
+            "actionEvent" : {
+              "clickCount" : 0,
+              "eventMask" : 6,
+              "className" : "JRMouseClickedActionEvent",
+              "type" : "JRActionEventTypeMouseClicked",
+              "uuid" : "3F058609-7733-43B8-8FDB-233F421EB74C"
+            },
+            "name" : "Animate Emoji"
+          }
+        ]
+      },
+      "anchorPoint" : "{0, 0}",
+      "duration" : 3600,
+      "cornerRadius" : 56,
+      "bounds" : "{{0, 0}, {112, 112}}",
+      "contentsGravity" : "center"
+    }
+  ],
+  "uuid" : "7001244A-0E11-4AF2-B37B-9821B08BF4C2",
+  "name" : "Background Layer"
+}
